@@ -7,3 +7,4 @@ undir hanoitower.png
 ## 3
 O(n) er til dæmis for lykkja
 O(n^2) er þá lykkja með lykkju inn í sér
+O(log(n)) er þegar er notað "divide and conquer" aðferð þar sem er deilt heildinni með 2 aftur og aftur
