@@ -19,7 +19,7 @@ print len(combine(3))
 def revcombine(n):
     return list(map("".join,itertools.combinations('abcdefghijklnmopqrstuvwxyz'[::-1],n)))
 
-alist = revcombine(5)
+alist = revcombine(3)
 def bubbleSort(alist):
     for passnum in range(len(alist)-1,0,-1):
         for i in range(passnum):
